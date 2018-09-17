@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
-public class Jm6 {
+public class SeleniumTests {
 
     private static WebDriver driver;
 
